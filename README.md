@@ -40,6 +40,6 @@ Here are the main tasks demonstrated:
   * Wind speed less than 10 mph.
   * Zero cloudiness.
 
-* Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
-* Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+* Drop any rows that don't contain all three conditions. 
+* Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
