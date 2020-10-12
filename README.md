@@ -28,15 +28,6 @@ Below are some examples of the output correlations:
 </p>
 
 
-* Northern Hemisphere - Humidity (%) vs. Latitude
-![Fig3](https://user-images.githubusercontent.com/50465138/95777543-64c11280-0c94-11eb-973c-6112cd62342c.png)
-
-
-
-* Southern Hemisphere - Humidity (%) vs. Latitude
-![Fig4](https://user-images.githubusercontent.com/50465138/95777544-64c11280-0c94-11eb-9be3-2dbd870b6489.png)
-
-
 ## Three major findings:
 1. There is a strong correlation between max tempurature and latitude;
 2. There tends to be minimal relationship between humidity and latitude in South hemisphere. (r<0.1)
