@@ -21,6 +21,11 @@ Below are some examples of the output correlations:
 
 * Southern Hemisphere - Humidity (%) vs. Latitude
 
+## Three major findings:
+1. There is a strong correlation between max tempurature and latitude;
+2. There tends to be minimal relationship between humidity and latitude in South hemisphere. (r<0.1)
+3. There is weak correlation between Cloudiness (%) and latitude.
+
 
 # Part II VacationPy
 In this part I use weather data to plan future vacations. Jupyter-gmaps and the Google Places API fare also used for this part.
