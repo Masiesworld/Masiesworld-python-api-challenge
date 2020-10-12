@@ -5,13 +5,13 @@ In this example, I created a Python script to visualize the weather of 500+ citi
 
 First, I use scatterplot demonstrating the relationship and trend between City Latitude and a series of other variables:
 * Tempurature vs. Latitude
-![lat temp](https://user-images.githubusercontent.com/50465138/95774956-6dfbb080-0c8f-11eb-88d0-76c4d41be6bc.png)
+![lat temp](https://user-images.githubusercontent.com/50465138/95777390-190e6900-0c94-11eb-953c-eddd982fc78e.png)
 
 * Humidity vs. Latitude
-![lat humidity](https://user-images.githubusercontent.com/50465138/95774953-6cca8380-0c8f-11eb-878e-00c5280020a6.png)
+![lat humidity](https://user-images.githubusercontent.com/50465138/95777407-21ff3a80-0c94-11eb-9c26-735c3e33763e.png)
 
 * Cloudiness vs. Latitude
-![lat clouds](https://user-images.githubusercontent.com/50465138/95774951-6c31ed00-0c8f-11eb-9908-c4964906e67b.png)
+![lat clouds](https://user-images.githubusercontent.com/50465138/95777422-29bedf00-0c94-11eb-8389-f712e1d6c064.png)
 
 The second task is to deetect relationships between variables, with northern hemisphere and southrn hemisphere analyzed separately. 
 Below are some examples of the output correlations:
