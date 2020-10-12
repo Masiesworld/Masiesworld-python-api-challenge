@@ -1,3 +1,4 @@
+<p align="center">
 # Part I WeatherPy
 In this example, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I use a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 
@@ -52,3 +53,4 @@ Here are the main tasks demonstrated:
 * Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 ![hotelmap](https://user-images.githubusercontent.com/50465138/95775204-f8dcab00-0c8f-11eb-9134-2e687c303e65.png)
+</p>
