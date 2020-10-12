@@ -1,4 +1,4 @@
-<p align="center">
+
 # Part I WeatherPy
 In this example, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I use a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 
@@ -17,7 +17,11 @@ First, I use scatterplot demonstrating the relationship and trend between City L
 The second task is to deetect relationships between variables, with northern hemisphere and southrn hemisphere analyzed separately. 
 Below are some examples of the output correlations:
 * Northern Hemisphere - Temperature (F) vs. Latitude
-![Fig1](https://user-images.githubusercontent.com/50465138/95777516-5246d900-0c94-11eb-8087-d894049b1a5f.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50465138/95777516-5246d900-0c94-11eb-8087-d894049b1a5f.png" alt="Sublime's custom image"/>
+</p>
+
 
 * Southern Hemisphere - Temperature (F) vs. Latitude
 ![Fig2](https://user-images.githubusercontent.com/50465138/95777519-54a93300-0c94-11eb-9853-188f054091e5.png)
@@ -53,4 +57,3 @@ Here are the main tasks demonstrated:
 * Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 ![hotelmap](https://user-images.githubusercontent.com/50465138/95775204-f8dcab00-0c8f-11eb-9134-2e687c303e65.png)
-</p>
