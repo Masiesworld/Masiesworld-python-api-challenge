@@ -16,16 +16,9 @@ First, I use scatterplot demonstrating the relationship and trend between City L
 The second task is to deetect relationships between variables, with northern hemisphere and southrn hemisphere analyzed separately. 
 Below are some examples of the output correlations:
 * Northern Hemisphere - Temperature (F) vs. Latitude
-![N_temp_lat](https://user-images.githubusercontent.com/50465138/95775291-23c6ff00-0c90-11eb-8e2a-a8e0bf32aa1c.png)
-
 * Southern Hemisphere - Temperature (F) vs. Latitude
-![S_temp_lat](https://user-images.githubusercontent.com/50465138/95775136-cfbc1a80-0c8f-11eb-86a7-226be8268bde.png)
-
 * Northern Hemisphere - Humidity (%) vs. Latitude
-![N_hum_lat](https://user-images.githubusercontent.com/50465138/95775284-2164a500-0c90-11eb-8968-1501f9af4340.png)
-
 * Southern Hemisphere - Humidity (%) vs. Latitude
-![S_hum_lat](https://user-images.githubusercontent.com/50465138/95775133-cfbc1a80-0c8f-11eb-9c57-6189bc9917ae.png)
 
 
 ## Three major findings:
