@@ -29,6 +29,7 @@ Below are some examples of the output correlations:
 
 # Part II VacationPy
 In this part I use weather data to plan future vacations. Jupyter-gmaps and the Google Places API fare also used for this part.
+
 *Note: all the output images for this part can be found in the folder **Images**.*
 
 Here are the main tasks demonstrated:
